@@ -1,7 +1,7 @@
 ## Goal
-- For this challenge I was tasked with utilizing Python and concepts in unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes
-- In order to do so, I was to Prepare the data by normalizing/scaling it, cluster the cryptocurrencies, predicting the clusters, and further utilizing Principal Component Analysis to analyze the data
-- I was to then visualize this analysis within the Jupyter Notebook
+- For this challenge I was tasked with utilizing Python and concepts in unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+- In order to do so, I was to Prepare the data by normalizing/scaling it, cluster the cryptocurrencies, predicting the clusters, and further utilizing Principal Component Analysis to analyze the data.
+- I was to then visualize this analysis within the Jupyter Notebook.
 
 ## Method
 - First, I imported the necessary dependencies (including the appropriate environment to prevent a memory leak while using K-Means, PCA, and StandardScaler)
